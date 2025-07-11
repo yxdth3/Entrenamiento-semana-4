@@ -31,18 +31,21 @@ Navega al directorio del proyecto cd Entrenamiento-semana-2
 Abre el archivo form.html en tu navegador (O usa un servidor local como Live Server en VS Code)
 
 * Captura de pantalla *
-* 
+  <img width="1024" height="251" alt="image" src="https://github.com/user-attachments/assets/b8c531c5-02e5-46f8-82c1-d99bf190b93b" />
+  <img width="1024" height="251" alt="image" src="https://github.com/user-attachments/assets/a037cb50-63a0-4fca-8f09-d5e34a4ef475" />
+
+
 
 
 
 🚧 Estructura 🚧
 
-├── index.html                   # Página principal
-├── js/
-│   ├── gestion_datos.js         # Lógica principal
-├── assets/
-|    ├── css/
-│       ├── styles.css           # Estilos principales
-└── README.md                    # Este archivo
+```
+├── form.html                   # Página principal
+├── main.js                     # Lógica principal
+├── styles.css                  # Estilos principales
+└── README.md                   # Este archivo
+```
+
 📞 Contacto 📞
 Nombre: Yiseth Gutiérrez Teléfono: 3206781487 Correo: gutierrezyiseth3@gmail.com GitHub: @yxdth3
