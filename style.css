@@ -1,0 +1,60 @@
+body {
+    font-family: "TikTok Sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% del alto de la pantalla */
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    margin: 50px;
+    padding: 50px;
+    border: 1rem solid #ccc;
+    border-radius: 5%;
+}
+
+input {
+    display: block;
+    width: 10px auto;
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #dfb3df;
+    color: rgb(15, 15, 15);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cda0cd;
+    cursor: pointer;
+}
+
+.buttons {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#output {
+    margin-top: 20px;
+}
