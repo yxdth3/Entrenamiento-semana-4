@@ -29,7 +29,7 @@ function displayData() {
     const outputDiv = document.getElementById('output');
 
     if (name && age) {
-        outputDiv.innerText = `Holisss ${name}, tienes ${age} añoss ✨`;
+        outputDiv.innerText = `Hiiii ${name}, you are ${age} years old ✨`;
     } else {
         outputDiv.innerText = 'No saved user data found.';
     }
